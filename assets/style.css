@@ -1,0 +1,132 @@
+/* Cascading style sheet */
+  /* className (.className) */
+  /* ID (#Identifier) */
+*{
+   padding: 0px;
+   margin: 0px;
+   font-family: sans-serif;
+}
+
+.container{
+   background-color: white;
+   padding: 20px;
+
+}
+.navs{
+   margin-left: 40%;
+}
+.row{
+   display: flex;
+}
+.card-body{
+   width: 100%;
+}
+img{
+   width: 60%;
+}
+.b3 img{
+   width:80%;
+   height: 40vh;
+   margin: 4%;
+   border-radius: 10px 10px 0px 0px;
+}
+
+.b2 img{
+   width: 80%;
+   margin: 4%;
+   border-radius: 10px 10px 0px 0px;
+}
+.b1 img{
+   width: 65%;
+   margin: 4%;
+   /* border-radius: 10px 10px 0px 0px; */
+}
+a{
+    /* color:red; */
+    /* pixel */
+
+    padding-left: 20px;
+   /* margin: 30px;
+    background-color: white;
+    border: solid green  5px; */
+
+   /* border: none; */
+   /* border-style: double;
+   border-color: black;
+   border-width: 30px; */
+   text-decoration:none;
+   color: red;
+ }
+
+ body{
+    /* background-color: gray; */
+    background-image: url('img/bg.png');
+ }
+ /* .a2{
+    color:grey;
+    background-color: yellow;
+ }
+ a{
+    color:yellowgreen;
+    background-color: yellow;
+ }
+ .a4{
+    color:red;
+    background-color: green;
+ } */
+
+ .card{
+   margin-top: 10%;
+   background-color: white;
+   width: 30%;
+   margin-left: 2.5%;
+   height: 60vh;
+   text-align: center;
+   border-radius:10px;
+   color: red;
+ }
+ .card4{
+   margin-top: 7%;
+   padding-top: 6%;
+   background-color: white;
+   width: 40%;
+   transform: translate(110%, 0%);
+   height: 50vh;
+   text-align: center;
+   border-radius:10px;
+   max-width: 30%;
+   /* color: red; */
+ }
+img{
+   width: 40px;
+ }
+ .header {
+   display: flex;
+   margin-left: 110px;
+ }
+.logotext{
+   margin-top:13px;
+   font-size: 20px;
+}
+ .card4 .b4 .form-group{
+   margin: 4%;
+ }
+
+ .btn{
+   padding:10px;
+   width: 100%;
+   border-radius: 5px;
+   border:none;
+   color:white;
+   text-transform: capitalize;
+ }
+ .btn-danger{
+   background-color: rgb(181, 55, 55);
+ }
+ .card4 .b4 .form-control{
+     padding:10px;
+     width: 90%;
+ }
+.checkbox{
+   margin-left: -65%;
+}

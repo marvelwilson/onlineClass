@@ -1,0 +1,22 @@
+HTML - Hyper test markup language
+  basic element
+  tags & attribute
+  proper way of writing codes
+  list in HTML
+  tables
+  forms
+  and lot more...
+
+CSS - cascading style sheet
+   inline styling
+   internal styling
+   external styling
+   
+  elements 
+  psudo element
+  animation
+  and lot more .....
+
+  keys to know
+   (ctrl /) to  comment
+   (ctrl s) to save
